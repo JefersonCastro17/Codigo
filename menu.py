@@ -26,4 +26,4 @@ def menu():
             print("¡Fin!")
             break
         else:
-            print("Opción no encontrada")
+            print("Opción no encontrada.")
